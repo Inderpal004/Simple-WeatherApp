@@ -1,0 +1,1 @@
+Deploy version : https://simple-weatherapp-inder.netlify.app/
